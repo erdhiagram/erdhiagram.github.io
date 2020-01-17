@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3467ecc8-696f-4c70-8ce3-7ebaed49e4c3" name="Default Changelist" comment="Add assets (vendor)">
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-api.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-api.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-element.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-element.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-lite.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-sfx.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/interfaces/icon-interfaces.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/interfaces/icon-interfaces.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/interfaces/icon-interfaces.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/shape-template-observer.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/svg-tag-generator.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/accordion/_accordion.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/accordion/_variables.accordion.dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/accordion/_variables.accordion.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/_buttons.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/_variables.button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/_variables.toggles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/button-group/_button-group.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/color/_variables.color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/dark-theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/_tables.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/_variables.tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/datagrid/_datagrid.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/datagrid/_variables.datagrid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/stack-view/_stack-view.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/stack-view/_variables.stack-view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/tree-view/_tree-view.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/tree-view/_variables.tree-view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/_labels.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/_variables.badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/_variables.label.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/alert/_alert.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/alert/_variables.alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/combobox/_combobox.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/combobox/_variables.combobox.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/datepicker/_datepicker.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/datepicker/_variables.datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_checkbox.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_containers.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_file.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_form.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_input-group.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_input.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_mixins.forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_radio.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_select.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_textarea.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_toggles.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_variables.forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/image/_icons.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/image/_images.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_card.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_login.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_variables.card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_variables.login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/_grid.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/mixins/_breakpoint.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/mixins/_grid-framework.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/mixins/_grid.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_align.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_clearfix.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_display.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_flex.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_float.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_visibility.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/variables/_variables.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/main-container/_layout.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/main-container/_variables.header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_header.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_links.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_nav.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_responsive-nav.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_sidenav.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_subnav.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.responsive-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.sidenav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.subnav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/tabs/_tabs.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/tabs/_variables.tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/vertical-nav/_variables.vertical-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/vertical-nav/_vertical-nav.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/modal/_modal.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/modal/_variables.modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/common/_popover.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/dropdown/_dropdown.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/dropdown/_menu-mixins.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/dropdown/_variables.dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/signpost/_signposts.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/signpost/_variables.signpost.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/tooltip/_tooltips.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/tooltip/_variables.tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/progress-bars/_progress-bars.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/progress-bars/_variables.progress-bars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/progress-bars/utils/mixins.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/spinner/_spinner.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/spinner/_variables.spinner.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/timeline/_timeline.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/timeline/_variables.timeline.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_code.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_lists.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_typography.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_variables.lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_variables.typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/fonts.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_a11y.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_close.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_components.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_helpers.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_layers.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_mixins.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_overwrites.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_reboot.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_theme.dark.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_theme.dark.icons.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_variables.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_variables.global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/animations/_animations.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/drag-and-drop/_drag-and-drop.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/focus-trap/_focus-trap.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/popover/popover-popover.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/wizard/_variables.wizard.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/clr/ui/src/wizard/_wizard.clarity.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/custom-elements.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/custom-elements.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/externs/custom-elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/AlreadyConstructedMarker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/CustomElementInternals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/CustomElementRegistry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/CustomElementState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/DocumentConstructionObserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/DocumentFragment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/HTMLElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Interface/ChildNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Interface/ParentNode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Native.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Utilities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/custom-elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vendor/custom-elements/src/native-shim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="732" column="117" selection-start-line="732" selection-start-column="95" selection-end-line="732" selection-end-column="117" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#11;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Node.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2018.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\vendor" />
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets" />
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets" />
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\css\clr" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3467ecc8-696f-4c70-8ce3-7ebaed49e4c3" name="Default Changelist" comment="" />
+      <created>1579279508199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579279508199</updated>
+      <workItem from="1579279511184" duration="1922000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add assets">
+      <created>1579279736086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579279736087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1922000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add assets" />
+    <MESSAGE value="Add assets (vendor)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add assets (vendor)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/svg/tree-planting.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="732" column="117" selection-start-line="732" selection-start-column="95" selection-end-line="732" selection-end-column="117" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#4;n#ul#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#9;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#11;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Node.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
