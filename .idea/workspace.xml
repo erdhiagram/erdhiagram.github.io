@@ -1,9 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3467ecc8-696f-4c70-8ce3-7ebaed49e4c3" name="Default Changelist" comment="Add assets (vendor)">
+    <list default="true" id="3467ecc8-696f-4c70-8ce3-7ebaed49e4c3" name="Default Changelist" comment="edit index.html 2019.01.18-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/vmware-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/img/vmware-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/svg/tree-planting.svg" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/svg/tree-planting.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-api.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-api.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-api.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-api.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-element.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-element.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-element.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-element.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-element.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-lite.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-lite.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons-sfx.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons-sfx.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/clr-icons.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/clr-icons.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/interfaces/icon-interfaces.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/interfaces/icon-interfaces.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/interfaces/icon-interfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/interfaces/icon-interfaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/interfaces/icon-interfaces.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/interfaces/icon-interfaces.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/all-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/all-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/all-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/all-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/all-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/all-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/chart-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/chart-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/chart-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/chart-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/chart-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/chart-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/commerce-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/commerce-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/commerce-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/commerce-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/commerce-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/commerce-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/core-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/core-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/core-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/core-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/core-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/core-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/essential-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/essential-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/essential-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/essential-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/essential-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/essential-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/media-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/media-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/media-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/media-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/media-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/media-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/social-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/social-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/social-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/social-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/social-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/social-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/technology-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/technology-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/technology-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/technology-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/technology-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/technology-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/text-edit-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/text-edit-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/text-edit-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/text-edit-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/text-edit-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/text-edit-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/travel-shapes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/travel-shapes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/travel-shapes.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/travel-shapes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/shapes/travel-shapes.zip" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/shapes/travel-shapes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/utils/descriptor-config.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/utils/descriptor-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/utils/descriptor-config.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/shape-template-observer.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/utils/shape-template-observer.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/icons/utils/svg-tag-generator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/icons/utils/svg-tag-generator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui-dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui-dark.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui-dark.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui-dark.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui-dark.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/clr-ui.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/accordion/_accordion.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/accordion/_accordion.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/accordion/_variables.accordion.dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/accordion/_variables.accordion.dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/accordion/_variables.accordion.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/accordion/_variables.accordion.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/_buttons.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/button/_buttons.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/_variables.button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/button/_variables.button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/_variables.toggles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/button/_variables.toggles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/button/button-group/_button-group.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/button/button-group/_button-group.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/color/_variables.color.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/color/_variables.color.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/dark-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/dark-theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/_tables.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/_tables.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/_variables.tables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/_variables.tables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/datagrid/_datagrid.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/datagrid/_datagrid.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/datagrid/_variables.datagrid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/datagrid/_variables.datagrid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/stack-view/_stack-view.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/stack-view/_stack-view.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/stack-view/_variables.stack-view.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/stack-view/_variables.stack-view.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/tree-view/_tree-view.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/tree-view/_tree-view.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/data/tree-view/_variables.tree-view.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/data/tree-view/_variables.tree-view.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/_labels.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/emphasis/_labels.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/_variables.badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/emphasis/_variables.badge.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/_variables.label.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/emphasis/_variables.label.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/alert/_alert.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/emphasis/alert/_alert.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/emphasis/alert/_variables.alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/emphasis/alert/_variables.alert.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/combobox/_combobox.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/combobox/_combobox.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/combobox/_variables.combobox.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/combobox/_variables.combobox.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/datepicker/_datepicker.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/datepicker/_datepicker.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/datepicker/_variables.datepicker.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/datepicker/_variables.datepicker.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_checkbox.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_checkbox.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_containers.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_containers.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_file.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_file.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_form.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_form.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_input-group.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_input-group.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_input.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_input.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_mixins.forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_mixins.forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_radio.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_radio.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_select.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_select.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_textarea.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_textarea.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_toggles.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_toggles.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/forms/styles/_variables.forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/forms/styles/_variables.forms.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/image/_icons.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/image/_icons.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/image/_images.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/image/_images.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_card.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/_card.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_login.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/_login.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_variables.card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/_variables.card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/_variables.login.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/_variables.login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/_grid.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/_grid.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/mixins/_breakpoint.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/mixins/_breakpoint.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/mixins/_grid-framework.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/mixins/_grid-framework.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/mixins/_grid.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/mixins/_grid.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_align.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/utilities/_align.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_clearfix.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/utilities/_clearfix.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_display.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/utilities/_display.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_flex.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/utilities/_flex.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_float.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/utilities/_float.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/utilities/_visibility.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/utilities/_visibility.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/grid/variables/_variables.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/grid/variables/_variables.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/main-container/_layout.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/main-container/_layout.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/main-container/_variables.header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/main-container/_variables.header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_header.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_header.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_links.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_links.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_nav.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_nav.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_responsive-nav.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_responsive-nav.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_sidenav.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_sidenav.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_subnav.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_subnav.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_variables.nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.responsive-nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_variables.responsive-nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.sidenav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_variables.sidenav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/nav/_variables.subnav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_variables.subnav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/tabs/_tabs.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/tabs/_tabs.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/tabs/_variables.tabs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/tabs/_variables.tabs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/vertical-nav/_variables.vertical-nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/vertical-nav/_variables.vertical-nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/layout/vertical-nav/_vertical-nav.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/vertical-nav/_vertical-nav.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/modal/_modal.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/modal/_modal.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/modal/_variables.modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/modal/_variables.modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/common/_popover.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/common/_popover.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/dropdown/_dropdown.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/dropdown/_dropdown.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/dropdown/_menu-mixins.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/dropdown/_menu-mixins.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/dropdown/_variables.dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/dropdown/_variables.dropdown.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/signpost/_signposts.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/signpost/_signposts.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/signpost/_variables.signpost.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/signpost/_variables.signpost.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/tooltip/_tooltips.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/tooltip/_tooltips.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/popover/tooltip/_variables.tooltip.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/popover/tooltip/_variables.tooltip.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/progress-bars/_progress-bars.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/progress/progress-bars/_progress-bars.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/progress-bars/_variables.progress-bars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/progress/progress-bars/_variables.progress-bars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/progress-bars/utils/mixins.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/progress/progress-bars/utils/mixins.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/spinner/_spinner.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/progress/spinner/_spinner.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/progress/spinner/_variables.spinner.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/progress/spinner/_variables.spinner.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/timeline/_timeline.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/timeline/_timeline.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/timeline/_variables.timeline.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/timeline/_variables.timeline.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_code.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/typography/_code.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_lists.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/typography/_lists.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_typography.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/typography/_typography.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_variables.lists.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/typography/_variables.lists.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/_variables.typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/typography/_variables.typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/typography/fonts.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/typography/fonts.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_a11y.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_a11y.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_close.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_close.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_components.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_components.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_helpers.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_helpers.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_layers.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_layers.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_mixins.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_mixins.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_normalize.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_normalize.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_overwrites.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_overwrites.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_reboot.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_reboot.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_theme.dark.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_theme.dark.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_theme.dark.icons.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_theme.dark.icons.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_variables.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_variables.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/_variables.global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/_variables.global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/animations/_animations.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/animations/_animations.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/drag-and-drop/_drag-and-drop.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/drag-and-drop/_drag-and-drop.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/focus-trap/_focus-trap.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/focus-trap/_focus-trap.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/utils/popover/popover-popover.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/utils/popover/popover-popover.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/wizard/_variables.wizard.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/wizard/_variables.wizard.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/clr/ui/src/wizard/_wizard.clarity.scss" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/wizard/_wizard.clarity.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/custom-elements.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/custom-elements.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/custom-elements.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/custom-elements.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/externs/custom-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/externs/custom-elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/AlreadyConstructedMarker.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/AlreadyConstructedMarker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/CustomElementInternals.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/CustomElementInternals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/CustomElementRegistry.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/CustomElementRegistry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/CustomElementState.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/CustomElementState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Deferred.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Deferred.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/DocumentConstructionObserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/DocumentConstructionObserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Document.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/DocumentFragment.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/DocumentFragment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Element.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/HTMLElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/HTMLElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Interface/ChildNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Interface/ChildNode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Interface/ParentNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Interface/ParentNode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Native.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Native.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Node.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/Utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Utilities.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/custom-elements.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/custom-elements.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/custom-elements/src/native-shim.js" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/native-shim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +239,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/VOA/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            <state relative-caret-position="277">
+              <caret line="743" column="7" lean-forward="true" selection-start-line="743" selection-start-column="7" selection-end-line="743" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,10 +262,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Node.js">
+        <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Node.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -54,6 +279,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/VOA/index.html" />
       </list>
     </option>
   </component>
@@ -76,44 +302,6 @@
               <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
               <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="svg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="clr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github@erdhiagram" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github@erdhiagram" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="clr" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -129,6 +317,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\VOA" />
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\vendor" />
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets" />
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\img" />
@@ -160,7 +349,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579279508199</updated>
-      <workItem from="1579279511184" duration="2633000" />
+      <workItem from="1579279511184" duration="4088000" />
     </task>
     <task id="LOCAL-00001" summary="Add assets">
       <created>1579279736086</created>
@@ -169,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1579279736087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="edit index.html 2019.01.18-1">
+      <created>1579282466705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579282466705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2633000" />
+    <option name="totallyTimeSpent" value="4088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -207,26 +403,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add assets" />
     <MESSAGE value="Add assets (vendor)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add assets (vendor)" />
+    <MESSAGE value="edit index.html 2019.01.18-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit index.html 2019.01.18-1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/svg/tree-planting.svg">
+    <entry file="file://$PROJECT_DIR$/VOA/assets/svg/tree-planting.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/clr/icons/utils/descriptor-config.js">
+    <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/clr/icons/utils/descriptor-config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/vendor/custom-elements/src/Patch/Node.js">
+    <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Node.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="19" column="60" lean-forward="true" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/VOA/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        <state relative-caret-position="277">
+          <caret line="743" column="7" lean-forward="true" selection-start-line="743" selection-start-column="7" selection-end-line="743" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
