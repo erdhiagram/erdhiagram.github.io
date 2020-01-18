@@ -1,0 +1,751 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>VOA</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles.14b6ac2ad62a3f02d55c.css"></head>
+  <style rel="stylesheet">
+    .bg {
+      width: 100%;
+      height: 367px;
+      background: #0079B8;
+    }
+    .bg-banner-top {
+      margin-top: 68px;
+    }
+    .bg-banner-divider {
+      margin: 20px 0px 0px 0px;
+    }
+    .bg-banner-img {
+      margin-top: 14px;
+    }
+    .bg-banner-right-content {
+      position: absolute;
+      top: 75px;
+      right: 2%;
+    }
+    .font-banner {
+      font-size: 45px;
+      font-weight: bold;
+      color: white;
+    }
+    .locked {
+      width: 59px;
+      height: 21px;
+    }
+    .locked-background {
+      text-align: center;
+      background: #E1F1F6;
+      border: 1px solid #89CBDF;
+      box-sizing: border-box;
+      border-radius: 11px;
+    }
+    .locked label {
+      font-family: Metropolis;
+      font-size: 11px;
+      line-height: 13px;
+      color: #004A70;
+    }
+    .remove-right-space {
+      margin-right: 0px !important;
+    }
+    .pull-right {
+      text-align: right;
+    }
+    .pull-down {
+      margin-top: 50px;
+    }
+    .row-margin {
+      margin: 2% !important;
+    }
+    .custom-margin {
+      margin: 0px 0px 0px 10px !important;
+    }
+    .set-center {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .set-center-left-content {
+      height: 100%;
+      display: flex;
+      justify-content: left;
+      align-items: center;
+    }
+    .label-box-title {
+      font-size: 45px;
+      font-weight: bold;
+      color: #004D8A;
+    }
+    .p-box-description {
+      font-size: 13px;
+      line-height: 17px;
+    }
+    .box-summary {
+      background-color: #F3F6FA;
+    }
+    .box-configuration {
+      background-color: #EBF0FF;
+    }
+    .box-performance {
+      background-color: #E1F1F6;
+    }
+    .box-capacity {
+      background-color: #DFF0D0;
+    }
+    .box-cost {
+      background-color: #D9E4EA;
+    }
+    .card-remove-margin-top {
+      margin-top: 0px !important;
+    }
+    .card-title-custom {
+      font-size: 13px !important;
+      font-weight: bold !important;
+    }
+    .card-text-custom {
+      font-size: 12px !important;
+    }
+    .card-title-blue {
+      font-size: 17px !important;
+      font-weight: bold !important;
+      color: #0065AB;
+    }
+    .card-title-blue-child {
+      font-size: 13px !important;
+      margin-left: 15px;
+    }
+    .card-custom-height {
+      height: 150px !important;
+    }
+    .custom-divider {
+      width: 100%;
+      height: 1px;
+      background-color: #565656;
+      opacity: 0.2;
+    }
+    .box-image {
+      position: relative;
+      width: 100%;
+      height: 465px;
+      background: #F2F2F2;
+      border-radius: 5px;
+    }
+    .box-image-content {
+      opacity: 0.5;
+      background: url(assets/img/vmware-image.png);
+      width: 90%;
+      height: 90%;
+      margin: auto;
+      background-size: cover;
+      background-position: center;
+      margin-top: 25px;
+    }
+    .box-image-action {
+      position: absolute;
+      width: 100%;
+      text-align: right;
+    }
+    .circle-div {
+      border-radius: 50%;
+    }
+    .circle-div-content {
+      width: 64px;
+      height: 64px;
+      background: yellow;
+      border: 3px solid red;
+    }
+  </style>
+<body>
+  <!--<app-root></app-root>-->
+
+  <div class="main-container">
+    <header class="header-6">
+      <div class="branding">
+        <a href="#" class="nav-link">
+          <clr-icon shape="vm-bug"></clr-icon>
+          <span class="title">VMware vRealize Operations Service</span>
+        </a>
+      </div>
+      <div class="header-nav">
+        <a href="#" class="nav-link nav-text">Home</a>
+        <a href="#" class="active nav-link nav-text">Dashboards</a>
+        <a href="#" class="nav-link nav-text">Alerts</a>
+        <a href="#" class="nav-link nav-text">Environment</a>
+        <a href="#" class="nav-link nav-text">Administration</a>
+      </div>
+      <div class="header-actions">
+        <a href="#" class="nav-link nav-icon" aria-label="settings">
+          <clr-icon shape="search"></clr-icon>
+        </a>
+        <a href="#" class="nav-link nav-icon" aria-label="settings">
+          <clr-icon shape="refresh"></clr-icon>
+        </a>
+        <a href="#" class="nav-link nav-icon" aria-label="settings">
+          <clr-icon shape="bell"></clr-icon>
+        </a>
+        <a href="#" class="nav-link nav-icon" aria-label="settings">
+          <clr-icon shape="user"></clr-icon>
+        </a>
+      </div>
+    </header>
+
+    <div class="content-container">
+      <div class="bg">
+        <div class="clr-row remove-right-space">
+          <div class="clr-col-lg-12">
+            <div class="bg-banner-right-content">
+              <div class="clr-row">
+                <div class="clr-col-sm-6">
+                  <div class="locked">
+                    <div class="locked-background">
+                      <label>Locked</label>
+                    </div>
+                  </div>
+                </div>
+                <div class="clr-col-sm-6">
+                  <clr-icon shape="share" size="24" class="is-inverse"></clr-icon>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="clr-col-lg-6 bg-banner-top">
+            <div class="content-area">
+              <label class="font-banner">Virtualization Optimization</label>
+              <div class="bg-banner-divider"></div>
+              <label class="font-banner">Assessment</label>
+            </div>
+            <div class="content-area">
+              <p style="color: white;">
+                VMware  Optimization Assessment provides a step guide to optimize your environment.
+                It gives 360 degree visibility to their capacity, performance andconfiguartion across multi-cloud environments throuh predictive analytics and unified single console.
+              </p>
+            </div>
+          </div>
+          <div class="clr-col-lg-6 pull-right">
+            <img src="assets/svg/tree-planting.svg" class="bg-banner-img" />
+          </div>
+        </div>
+
+        <div class="clr-row row-margin" style="margin-bottom: 0 !important;">
+          <div class="clr-col">
+            <div class="set-center">
+              <div class="circle-div circle-div-content"></div>
+            </div>
+          </div>
+          <div class="clr-col">
+            <div class="set-center">
+              <div class="circle-div circle-div-content"></div>
+            </div>
+          </div>
+          <div class="clr-col">
+            <div class="set-center">
+              <div class="circle-div circle-div-content"></div>
+            </div>
+          </div>
+          <div class="clr-col">
+            <div class="set-center">
+              <div class="circle-div circle-div-content"></div>
+            </div>
+          </div>
+          <div class="clr-col">
+            <div class="set-center">
+              <div class="circle-div circle-div-content"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin" style="margin-top: 0 !important;">
+          <div class="clr-col-lg-12">
+            <ul id="nav-tab" class="nav" role="tablist">
+              <li role="summary" class="nav-item" style="width: 20% !important; text-align: center;">
+                <button id="btn-summary" class="btn btn-link nav-link active" aria-controls="panel1" aria-selected="true" type="button">
+                  Summary
+                </button>
+              </li>
+              <li role="configuration" class="nav-item" style="width: 20% !important; text-align: center;">
+                <button id="btn-configuration" class="btn btn-link nav-link" aria-controls="panel2" aria-selected="false" type="button">
+                  Configuration
+                </button>
+              </li>
+              <li role="performance" class="nav-item" style="width: 20% !important; text-align: center;">
+                <button id="btn-performance" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
+                  Presentation
+                </button>
+              </li>
+              <li role="capacity" class="nav-item" style="width: 20% !important; text-align: center;">
+                <button id="btn-capacity" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
+                  Capacity
+                </button>
+              </li>
+              <li role="cost" class="nav-item" style="width: 20% !important; text-align: center;">
+                <button id="btn-cost" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
+                  Cost
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="card card-remove-margin-top">
+              <div class="card-header box-summary">
+                <div class="clr-row">
+                  <div class="clr-col-lg-1">
+                    <div class="set-center">
+                      <clr-icon shape="bullet-list" size="55" class="is-info"></clr-icon>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-2">
+                    <div class="set-center-left-content">
+                      <label class="label-box-title">Summary</label>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-9">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description" style="margin-left: 40px !important;">
+                        Optimizing a VMware-based IaaS begins with the end in mind. From your customers viewpoint, the underlying architecture (e.g. SDDC, EUC) is transparent.
+                        They buy service, which comes with the 3 sets of SLA.<br/>
+                        Each SLA is measured at per VM level. Each VM has its own SLA, independent of other VMs. The SLA is not measured at infrastructure level.​
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card-block">
+                <div class="clr-row">
+                  <div class="clr-col-lg-7">
+                    <div class="card-title card-title-custom">
+                      Availability SLA
+                    </div>
+                    <div class="card-text card-text-custom">
+                      This measures the availability of the Guest OS, not just the VM. Just because the underlying virtual machine is powered on, does not mean the Guest OS is up and running.
+                    </div>
+                    <div class="card-title card-title-custom">
+                      Performance SLA
+                    </div>
+                    <div class="card-text card-text-custom">
+                      Performance SLA is much harder to operationalize as IaaS service provider tends to operate on best effort, and performance is measured by complaint. vRealize Operations come with a set of predefined SLA for each element of IaaS (CPU, memory, disk, network).
+                    </div>
+                    <div class="card-title card-title-custom">
+                      Compliance SLA
+                    </div>
+                    <div class="card-text card-text-custom">
+                      This measure the availability of the Guest OS, not just VM, just because the underlying virtual machine is powered on , does not mean the Guest OS is up and running.
+                    </div>
+                    <div class="custom-divider"></div>
+                    <div class="card-title card-title-custom"></div>
+                    <div class="card-text card-text-custom">
+                      <i>To deliver the SLA, it’s paramount to understand the dependency among the components. For example, Contention and Utilization are 2 non-overlapping family of metrics. They complement each other, providing a complete set for performance management.</i>
+                    </div>
+                    <div class="clr-row pull-down">
+                      <div class="clr-col-lg-4">
+                        <button class="btn btn-sm btn-outline">IT  Management Report</button>
+                      </div>
+                      <div class="clr-col-lg-4">
+                        <button class="btn btn-sm btn-outline">Inventory Summary</button>
+                      </div>
+                      <div class="clr-col-lg-4">
+                        <button class="btn btn-sm btn-outline">Capacity Summary</button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-5">
+                    <div class="set-center">
+                      <div class="box-image">
+                        <div class="box-image-action">
+                          <clr-icon shape="resize-up" size="24"></clr-icon>
+                        </div>
+                        <div class="box-image-content"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="custom-divider"></div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="card card-remove-margin-top">
+              <div class="card-header box-configuration">
+                <div class="clr-row">
+                  <div class="clr-col-lg-1">
+                    <div class="set-center">
+                      <clr-icon shape="cog" size="55" class="is-info"></clr-icon>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-3">
+                    <div class="set-center-left-content">
+                      <label class="label-box-title">Configuration</label>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-8">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description" style="margin-left: 30px !important;">
+                        Optimized configuration is important as it impacts performance and capacity. Consistent configuration also reduces complexity of operations.
+                        Follow these steps, to guide you focus from the most critical to the least critical.​<br/>
+                        The settings are split into 2 (VM and Infrastructure). Focus on the consumer of the IaaS first.​
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card-block">
+                <div class="clr-row">
+                  <div class="clr-col-lg-6">
+                    <div class="card card-remove-margin-top">
+                      <div class="card-block card-custom-height">
+                        <div class="card-title">
+                          <label class="card-title-blue">1. Incorrect Configuration</label>
+                        </div>
+                        <div class="card-text">
+                          Avoid these . They directly impact visibility, performance, capacity, or security​
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <div class="clr-row">
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">Virtual Machine</button>
+                          </div>
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">infrastructure</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-6">
+                    <div class="card card-remove-margin-top">
+                      <div class="card-block card-custom-height">
+                        <div class="card-title">
+                          <label class="card-title-blue">2. Outdated Configuration</label>
+                        </div>
+                        <div class="card-text">
+                          The settings are correct, but they are based on older versions, which may no longer be supported, or incompatible with the current environment​
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <div class="clr-row">
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">Virtual Machine</button>
+                          </div>
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">infrastructure</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-6">
+                    <div class="card">
+                      <div class="card-block card-custom-height">
+                        <div class="card-title">
+                          <label class="card-title-blue">3. Complex Configuration</label>
+                        </div>
+                        <div class="card-text">
+                          The settings are correct and up to date. But they are exception, and having amany of them increase complexity of operations.​
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <div class="clr-row">
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">Virtual Machine</button>
+                          </div>
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">infrastructure</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-6">
+                    <div class="card">
+                      <div class="card-block card-custom-height">
+                        <div class="card-title">
+                          <label class="card-title-blue">4. Suboptimal Configuration</label>
+                        </div>
+                        <div class="card-text">
+                          The settings are correct and do not complicate operations, however they are not optimal in terms of cost or performance.​
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <div class="clr-row">
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">Virtual Machine</button>
+                          </div>
+                          <div class="clr-col-lg-6 set-center">
+                            <button class="btn btn-sm btn-link">infrastructure</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="custom-divider"></div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="card card-remove-margin-top">
+              <div class="card-header box-performance">
+                <div class="clr-row">
+                  <div class="clr-col-lg-1">
+                    <div class="set-center">
+                      <clr-icon shape="line-chart" size="55" class="is-info"></clr-icon>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-3">
+                    <div class="set-center-left-content">
+                      <label class="label-box-title">Performance</label>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-8">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description">
+                        Performance management is easiest done by separating the layers that can impact VM or application performance.
+                        The reason is different team are responsible. The types of metrics can be grouped into 2 kinds of metrics (contention vs utilization).​
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card-block">
+                <div class="clr-row">
+                  <div class="clr-col-lg-5">
+                    <div class="set-center">
+                      <div class="box-image">
+                        <div class="box-image-action">
+                          <clr-icon shape="resize-up" size="24"></clr-icon>
+                        </div>
+                        <div class="box-image-content"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-7">
+                    <div class="card card-remove-margin-top">
+                      <div class="card-block">
+                        <div class="card-title">
+                          <label class="card-title-blue">Apps​ Layer</label>
+                          <label class="card-title-blue-child">Owned by Application Team​</label>
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <button class="btn btn-sm btn-outline">Install Telegraf</button>
+                        <button class="btn btn-sm btn-outline">Configure service discovery</button>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <div class="card-block">
+                        <div class="card-title">
+                          <label class="card-title-blue">VM​ Layer</label>
+                          <label class="card-title-blue-child">Co-owned by Infrastructure Team​</label>
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <button class="btn btn-sm btn-outline">Guest os performance</button>
+                        <button class="btn btn-sm btn-outline">VM performance</button>
+                        <button class="btn btn-sm btn-outline">VM Utilization</button>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <div class="card-block">
+                        <div class="card-title">
+                          <label class="card-title-blue">Infra​ Layer</label>
+                          <label class="card-title-blue-child">Owned by Infrastructure Team​</label>
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <button class="btn btn-sm btn-outline">compute performance</button>
+                        <button class="btn btn-sm btn-outline">storage performance</button>
+                        <button class="btn btn-sm btn-outline">network performance</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="custom-divider"></div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="card card-remove-margin-top">
+              <div class="card-header box-capacity">
+                <div class="clr-row">
+                  <div class="clr-col-lg-1">
+                    <div class="set-center">
+                      <clr-icon shape="pie-chart" size="55" class="is-info"></clr-icon>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-2">
+                    <div class="set-center-left-content">
+                      <label class="label-box-title">Capacity</label>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-9">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description" style="margin-left: 20px !important;">
+                        In Capacity Management, you want to maximise the utilization without compromising performance.
+                        The higher the utilization, all else being equal, the more productive the infrastructure is doing.​​<br/>
+                        Capacity measurement needs enough data to be accurate. For cluster, generally 1 month of data is required so monthly peaks are not missed.​
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card-block">
+                <div class="clr-row">
+                  <div class="clr-col-lg-5">
+                    <div class="set-center">
+                      <div class="box-image">
+                        <div class="box-image-action">
+                          <clr-icon shape="resize-up" size="24"></clr-icon>
+                        </div>
+                        <div class="box-image-content"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-7">
+                    <div class="card card-remove-margin-top">
+                      <div class="card-block">
+                        <div class="card-title">
+                          <label class="card-title-blue">Consumer​ Layer​</label>
+                        </div>
+                        <div class="card-text">
+                          <ul class="list-unstyled">
+                            <li>There are 4 things you should do to optimize the Demand part:​</li>
+                            <ol class="list">
+                              <li>Adjust undersized VM. This corrects the demand and reveals the true demand.​</li>
+                              <li>Adjust oversized VM. This frees up capacity.​</li>
+                              <li>Know the heavy hitters and their peak demands.​</li>
+                              <li>Reclaim wastage, freeing up capacity.</li>
+                            </ol>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <button class="btn btn-sm btn-outline">Undersized VM​</button>
+                        <button class="btn btn-sm btn-outline">Oversized VM​</button>
+                        <button class="btn btn-sm btn-outline">Heavy Hitters VM​​</button>
+                        <button class="btn btn-sm btn-outline">Reclaim​</button>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <div class="card-block">
+                        <div class="card-title">
+                          <label class="card-title-blue">Provider​ Layer​​</label>
+                        </div>
+                        <div class="card-text">
+                          Capacity is optimized when you maximize utilization without compromising performance. You’ve optimized performance, time to look at utilization.​
+                          There are 3 parts of your IaaS capacity:<br/>
+                          <b>Compute | Storage | Network.​</b>
+                        </div>
+                      </div>
+                      <div class="card-footer">
+                        <button class="btn btn-sm btn-outline">Compute Capacity​​</button>
+                        <button class="btn btn-sm btn-outline">Storage Capacity​</button>
+                        <button class="btn btn-sm btn-outline">Network Capacity​</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="custom-divider"></div>
+          </div>
+        </div>
+
+        <div class="clr-row row-margin">
+          <div class="clr-col-lg-12">
+            <div class="card card-remove-margin-top">
+              <div class="card-header box-cost">
+                <div class="clr-row">
+                  <div class="clr-col-lg-1">
+                    <div class="set-center">
+                      <clr-icon shape="coin-bag" size="55" class="is-info"></clr-icon>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-1">
+                    <div class="set-center-left-content">
+                      <label class="label-box-title">Cost</label>
+                    </div>
+                  </div>
+                  <div class="clr-col-lg-10">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description" style="margin-left: 30px !important;">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card-block">
+                <div class="card-title">
+                  Lorem ipsum
+                </div>
+                <div class="card-text">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script type="application/javascript" src="https://code.jquery.com/jquery-3.4.1.js"></script>
+  <script type="application/javascript">
+    $(document).ready(function() {
+      $("#btn-summary").click(function(){
+        alert("btn-summary");
+      });
+
+      $("#btn-configuration").click(function(){
+        moveTab()
+      });
+    });
+
+    function moveTab(){
+      document.getElementById("btn-configuration").classList.add("active");
+      document.getElementById("btn-summary").classList.remove("active");
+    }
+  </script>
+
+<script src="runtime-es2015.edb2fcf2778e7bf1d426.js" type="module"></script><script src="runtime-es5.edb2fcf2778e7bf1d426.js" nomodule defer></script><script src="polyfills-es5.ef4b1e1fc703b3ff76e3.js" nomodule defer></script><script src="polyfills-es2015.2987770fde9daa1d8a2e.js" type="module"></script><script src="scripts.0a56e7a0bb2925327061.js" defer></script><script src="main-es2015.80a6cac04391b26ecc0c.js" type="module"></script><script src="main-es5.80a6cac04391b26ecc0c.js" nomodule defer></script></body>
+</html>
