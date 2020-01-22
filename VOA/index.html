@@ -27,7 +27,7 @@
       right: 2%;
     }
     .font-banner {
-      font-size: 45px;
+      font-size: 35px;
       font-weight: bold;
       color: white;
     }
@@ -95,18 +95,23 @@
       line-height: 17px;
     }
     .box-summary {
+      height: 125px !important;
       background-color: #F3F6FA;
     }
     .box-configuration {
+      height: 125px !important;
       background-color: #EBF0FF;
     }
     .box-performance {
+      height: 125px !important;
       background-color: #E1F1F6;
     }
     .box-capacity {
+      height: 125px !important;
       background-color: #DFF0D0;
     }
     .box-cost {
+      height: 125px !important;
       background-color: #D9E4EA;
     }
     .card-remove-margin-top {
@@ -120,7 +125,7 @@
     .card-text-custom {
       font-size: 12px !important;
 	  margin-bottom: 24px !important;
-	  
+
     }
     .card-title-blue {
       font-size: 17px !important;
@@ -245,7 +250,7 @@
       text-align: center;
       height: 160px;
     }
-	
+
 	.btn-custom {
 		margin: 12px 16px 12px 0px !important;
 	}
@@ -255,6 +260,8 @@
 <!--<app-root></app-root>-->
 
 <div class="main-container">
+
+  <!--
   <header class="header-6">
     <div class="branding">
       <a href="#" class="nav-link">
@@ -283,26 +290,15 @@
         <clr-icon shape="user"></clr-icon>
       </a>
     </div>
-  </header>
+   </header>
+  -->
+
 
   <div class="content-container" style="height: 100% !important;">
     <div class="bg">
       <div class="clr-row remove-right-space">
         <div class="clr-col-lg-12">
-          <div class="bg-banner-right-content">
-            <div class="clr-row">
-              <div class="clr-col-sm-6">
-                <div class="locked">
-                  <div class="locked-background">
-                    <label>Locked</label>
-                  </div>
-                </div>
-              </div>
-              <div class="clr-col-sm-6">
-                <clr-icon shape="share" size="24" class="is-inverse"></clr-icon>
-              </div>
-            </div>
-          </div>
+
         </div>
         <div class="clr-col-lg-6 bg-banner-top">
           <div class="content-area">
@@ -363,30 +359,32 @@
         <div class="clr-col-lg-12">
 
             <div class="card-header box-summary">
-              <div class="clr-row">
-                <div class="clr-col-lg-3 clr-col-md-12 clr-col-sm-12 clr-col-12">
-                  <div class="set-center-left-content">
-                    <div class="clr-row">
-                      <div class="clr-col-3">
-                        <div class="set-center-left-content">
-                          <clr-icon shape="bullet-list" size="55" class="is-info"></clr-icon>
+              <div class="set-center-left-content">
+                <div class="clr-row">
+                  <div class="clr-col-lg-3 clr-col-md-12 clr-col-sm-12 clr-col-12">
+                    <div class="set-center-left-content">
+                      <div class="clr-row">
+                        <div class="clr-col-3">
+                          <div class="set-center-left-content">
+                            <clr-icon shape="bullet-list" size="55" class="is-info"></clr-icon>
+                          </div>
                         </div>
-                      </div>
-                      <div class="clr-col-9">
-                        <div class="set-center-left-content">
-                          <label class="label-box-title">Summary</label>
+                        <div class="clr-col-9">
+                          <div class="set-center-left-content">
+                            <label class="label-box-title">Summary</label>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="clr-col-lg-9 clr-col-md-12 clr-col-sm-12 clr-col-12 clr-col">
-                  <div class="set-center-left-content">
-                    <p class="custom-margin p-box-description">
-                      Optimizing a VMware-based IaaS begins with the end in mind. From your customers viewpoint, the underlying architecture (e.g. SDDC, EUC) is transparent.
-                      They buy service, which comes with the 3 sets of SLA.<br/>
-                      Each SLA is measured at per VM level. Each VM has its own SLA, independent of other VMs. The SLA is not measured at infrastructure level.​
-                    </p>
+                  <div class="clr-col-lg-9 clr-col-md-12 clr-col-sm-12 clr-col-12 clr-col">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description">
+                        Optimizing a VMware-based IaaS begins with the end in mind. From your customers viewpoint, the underlying architecture (e.g. SDDC, EUC) is transparent.
+                        They buy service, which comes with the 3 sets of SLA.<br/>
+                        Each SLA is measured at per VM level. Each VM has its own SLA, independent of other VMs. The SLA is not measured at infrastructure level.​
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -448,37 +446,39 @@
         <div class="clr-col-lg-12">
 
             <div class="card-header box-configuration">
-              <div class="clr-row">
-                <div class="clr-col-lg-4 clr-col-md-12 clr-col-sm-12 clr-col-12">
-                  <div class="set-center-left-content">
-                    <div class="clr-row">
-                      <div class="clr-col-3">
-                        <div class="set-center-left-content">
-                          <clr-icon shape="cog" size="55" class="is-info"></clr-icon>
+              <div class="set-center-left-content">
+                <div class="clr-row">
+                  <div class="clr-col-lg-4 clr-col-md-12 clr-col-sm-12 clr-col-12">
+                    <div class="set-center-left-content">
+                      <div class="clr-row">
+                        <div class="clr-col-3">
+                          <div class="set-center-left-content">
+                            <clr-icon shape="cog" size="55" class="is-info"></clr-icon>
+                          </div>
                         </div>
-                      </div>
-                      <div class="clr-col-9">
-                        <div class="set-center-left-content">
-                          <label class="label-box-title-configuration">Configuration</label>
+                        <div class="clr-col-9">
+                          <div class="set-center-left-content">
+                            <label class="label-box-title-configuration">Configuration</label>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="clr-col-lg-8">
-                  <div class="set-center-left-content">
-                    <p class="custom-margin p-box-description">
-                      Optimized configuration is important as it impacts performance and capacity. Consistent configuration also reduces complexity of operations.
-                      Follow these steps, to guide you focus from the most critical to the least critical.​<br/>
-                      The settings are split into 2 (VM and Infrastructure). Focus on the consumer of the IaaS first.​
-                    </p>
+                  <div class="clr-col-lg-8">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description">
+                        Optimized configuration is important as it impacts performance and capacity. Consistent configuration also reduces complexity of operations.
+                        Follow these steps, to guide you focus from the most critical to the least critical.​<br/>
+                        The settings are split into 2 (VM and Infrastructure). Focus on the consumer of the IaaS first.​
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
             </div>
             <div class="card-block card-block-bgcolor">
               <div class="clr-row">
-                <div class="clr-col-lg-6">
+                <div class="clr-col-lg-12">
                   <div class="card card-remove-margin-top">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
@@ -500,8 +500,8 @@
                     </div>
                   </div>
                 </div>
-                <div class="clr-col-lg-6">
-                  <div class="card card-remove-margin-top">
+                <div class="clr-col-lg-12">
+                  <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
                         <label class="card-title-blue">2. Outdated Configuration</label>
@@ -522,7 +522,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="clr-col-lg-6">
+                <div class="clr-col-lg-12">
                   <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
@@ -544,7 +544,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="clr-col-lg-6">
+                <div class="clr-col-lg-12">
                   <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
@@ -582,31 +582,33 @@
         <div class="clr-col-lg-12">
 
             <div class="card-header box-performance">
-              <div class="clr-row">
-                <div class="clr-col-lg-4 clr-col-md-12 clr-col-sm-12 clr-col-12">
-                  <div class="set-center-left-content">
-                    <div class="clr-row">
-                      <div class="clr-col-3">
-                        <div class="set-center-left-content">
-                          <clr-icon shape="line-chart" size="55" class="is-info"></clr-icon>
+              <div class="set-center-left-content">
+                <div class="clr-row">
+                  <div class="clr-col-lg-4 clr-col-md-12 clr-col-sm-12 clr-col-12">
+                    <div class="set-center-left-content">
+                      <div class="clr-row">
+                        <div class="clr-col-3">
+                          <div class="set-center-left-content">
+                            <clr-icon shape="line-chart" size="55" class="is-info"></clr-icon>
+                          </div>
                         </div>
-                      </div>
-                      <div class="clr-col-9">
-                        <div class="set-center-left-content">
-                          <label class="label-box-title">Performance</label>
+                        <div class="clr-col-9">
+                          <div class="set-center-left-content">
+                            <label class="label-box-title">Performance</label>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="clr-col-lg-8">
-                  <div class="set-center-left-content">
-                    <p class="custom-margin p-box-description">
-                      Performance management is easiest done by separating the layers that can impact VM or application performance.
-                      The reason is different team are responsible. The types of metrics can be grouped into 2 kinds of metrics (contention vs utilization).​
-                    </p>
+                  <div class="clr-col-lg-8">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description">
+                        Performance management is easiest done by separating the layers that can impact VM or application performance.
+                        The reason is different team are responsible. The types of metrics can be grouped into 2 kinds of metrics (contention vs utilization).​
+                      </p>
+                    </div>
                   </div>
-               </div>
+                </div>
               </div>
             </div>
             <div class="card-block card-block-bgcolor">
@@ -677,32 +679,34 @@
         <div class="clr-col-lg-12">
 
             <div class="card-header box-capacity">
-              <div class="clr-row">
-                <div class="clr-col-lg-3 clr-col-md-12 clr-col-sm-12 clr-col-12">
-                  <div class="set-center-left-content">
-                    <div class="clr-row">
-                      <div class="clr-col-4">
-                        <div class="set-center-left-content">
-                          <clr-icon shape="pie-chart" size="55" class="is-info"></clr-icon>
+              <div class="set-center-left-content">
+                <div class="clr-row">
+                  <div class="clr-col-lg-3 clr-col-md-12 clr-col-sm-12 clr-col-12">
+                    <div class="set-center-left-content">
+                      <div class="clr-row">
+                        <div class="clr-col-4">
+                          <div class="set-center-left-content">
+                            <clr-icon shape="pie-chart" size="55" class="is-info"></clr-icon>
+                          </div>
                         </div>
-                      </div>
-                      <div class="clr-col-8">
-                        <div class="set-center-left-content">
-                          <label class="label-box-title-capacity">Capacity</label>
+                        <div class="clr-col-8">
+                          <div class="set-center-left-content">
+                            <label class="label-box-title-capacity">Capacity</label>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="clr-col-lg-9">
-                  <div class="set-center-left-content">
-                    <p class="custom-margin p-box-description">
-                      In Capacity Management, you want to maximise the utilization without compromising performance.
-                      The higher the utilization, all else being equal, the more productive the infrastructure is doing.​​<br/>
-                      Capacity measurement needs enough data to be accurate. For cluster, generally 1 month of data is required so monthly peaks are not missed.​
-                    </p>
+                  <div class="clr-col-lg-9">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description">
+                        In Capacity Management, you want to maximise the utilization without compromising performance.
+                        The higher the utilization, all else being equal, the more productive the infrastructure is doing.​​<br/>
+                        Capacity measurement needs enough data to be accurate. For cluster, generally 1 month of data is required so monthly peaks are not missed.​
+                      </p>
+                    </div>
                   </div>
-              </div>
+                </div>
               </div>
             </div>
             <div class="card-block card-block-bgcolor">
@@ -776,33 +780,35 @@
         <div class="clr-col-lg-12">
 
             <div class="card-header box-cost">
-              <div class="clr-row">
-                <div class="clr-col-lg-2 clr-col-md-12 clr-col-sm-12 clr-col-12">
-                  <div class="set-center-left-content">
-                    <div class="clr-row">
-                      <div class="clr-col-4">
-                        <div class="set-center-left-content">
-                          <clr-icon shape="coin-bag" size="55" class="is-info"></clr-icon>
+              <div class="set-center-left-content">
+                <div class="clr-row">
+                  <div class="clr-col-lg-2 clr-col-md-12 clr-col-sm-12 clr-col-12">
+                    <div class="set-center-left-content">
+                      <div class="clr-row">
+                        <div class="clr-col-4">
+                          <div class="set-center-left-content">
+                            <clr-icon shape="coin-bag" size="55" class="is-info"></clr-icon>
+                          </div>
                         </div>
-                      </div>
-                      <div class="clr-col-8">
-                        <div class="set-center-left-content">
-                          <label class="label-box-title">Cost</label>
+                        <div class="clr-col-8">
+                          <div class="set-center-left-content">
+                            <label class="label-box-title">Cost</label>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="clr-col-lg-10">
-                  <div class="set-center-left-content">
-                    <p class="custom-margin p-box-description">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                    </p>
+                  <div class="clr-col-lg-10">
+                    <div class="set-center-left-content">
+                      <p class="custom-margin p-box-description">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                      </p>
+                    </div>
                   </div>
                 </div>
-             </div>
+              </div>
             </div>
             <div class="card-block card-block-bgcolor">
               <div class="card-title">
