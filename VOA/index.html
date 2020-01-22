@@ -19,7 +19,10 @@
       margin: 20px 0px 0px 0px;
     }
     .bg-banner-img {
-      margin-top: 14px;
+      margin-top: 15px;
+    }
+    .bg-color {
+      background: #0079B8;
     }
     .bg-banner-right-content {
       position: absolute;
@@ -61,7 +64,7 @@
       margin: 2% !important;
     }
     .custom-margin {
-      margin: 0px 0px 0px 10px !important;
+      margin: 0px 0px 0px 0px !important;
     }
     .set-center {
       height: 100%;
@@ -95,24 +98,39 @@
       line-height: 17px;
     }
     .box-summary {
-      height: 125px !important;
+      min-height: 125px !important;
       background-color: #F3F6FA;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .box-configuration {
-      height: 125px !important;
+      min-height: 125px !important;
       background-color: #EBF0FF;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .box-performance {
-      height: 125px !important;
+      min-height: 125px !important;
       background-color: #E1F1F6;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .box-capacity {
-      height: 125px !important;
+      min-height: 125px !important;
       background-color: #DFF0D0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .box-cost {
-      height: 125px !important;
+      min-height: 125px !important;
       background-color: #D9E4EA;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
     .card-remove-margin-top {
       margin-top: 0px !important;
@@ -136,8 +154,11 @@
       font-size: 13px !important;
       margin-left: 15px;
     }
+    .btn-text-resize{
+      font-size: .4rem !important;
+    }
     .card-custom-height {
-      height: 150px !important;
+      min-height: 200px !important;
     }
     .card-block-bgcolor {
       background-color: #FFFFFF !important;
@@ -154,6 +175,7 @@
       height: 550px;
       background: #F2F2F2;
       border-radius: 5px;
+      margin-top: 1rem !important;
     }
     .box-image-content {
       opacity: 0.5;
@@ -261,45 +283,9 @@
 
 <div class="main-container">
 
-  <!--
-  <header class="header-6">
-    <div class="branding">
-      <a href="#" class="nav-link">
-        <clr-icon shape="vm-bug"></clr-icon>
-        <span class="title">VMware vRealize Operations Service</span>
-      </a>
-    </div>
-    <div class="header-nav">
-      <a href="#" class="nav-link nav-text">Home</a>
-      <a href="#" class="active nav-link nav-text">Dashboards</a>
-      <a href="#" class="nav-link nav-text">Alerts</a>
-      <a href="#" class="nav-link nav-text">Environment</a>
-      <a href="#" class="nav-link nav-text">Administration</a>
-    </div>
-    <div class="header-actions">
-      <a href="#" class="nav-link nav-icon" aria-label="settings">
-        <clr-icon shape="search"></clr-icon>
-      </a>
-      <a href="#" class="nav-link nav-icon" aria-label="settings">
-        <clr-icon shape="refresh"></clr-icon>
-      </a>
-      <a href="#" class="nav-link nav-icon" aria-label="settings">
-        <clr-icon shape="bell"></clr-icon>
-      </a>
-      <a href="#" class="nav-link nav-icon" aria-label="settings">
-        <clr-icon shape="user"></clr-icon>
-      </a>
-    </div>
-   </header>
-  -->
-
-
   <div class="content-container" style="height: 100% !important;">
     <div class="bg">
-      <div class="clr-row remove-right-space">
-        <div class="clr-col-lg-12">
-
-        </div>
+      <div class="clr-row remove-right-space bg-color">
         <div class="clr-col-lg-6 bg-banner-top">
           <div class="content-area">
             <label class="font-banner">Virtualization Optimization</label>
@@ -392,7 +378,7 @@
             <div class="card-block card-block-bgcolor">
               <div class="clr-row">
                 <div class="clr-col-lg-7">
-                  <div class="card-title card-title-custom">
+                  <div class="card-title card-title-custom" style="margin-top: 1rem !important;">
                     Availability SLA
                   </div>
                   <div class="card-text card-text-custom">
@@ -478,8 +464,8 @@
             </div>
             <div class="card-block card-block-bgcolor">
               <div class="clr-row">
-                <div class="clr-col-lg-12">
-                  <div class="card card-remove-margin-top">
+                <div class="clr-col-lg-3 clr-col-sm-12">
+                  <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
                         <label class="card-title-blue">1. Incorrect Configuration</label>
@@ -490,17 +476,17 @@
                     </div>
                     <div class="card-footer">
                       <div class="clr-row">
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="clr-col-lg-12">
+                <div class="clr-col-lg-3 clr-col-sm-12">
                   <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
@@ -512,17 +498,17 @@
                     </div>
                     <div class="card-footer">
                       <div class="clr-row">
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="clr-col-lg-12">
+                <div class="clr-col-lg-3 clr-col-sm-12">
                   <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
@@ -534,17 +520,17 @@
                     </div>
                     <div class="card-footer">
                       <div class="clr-row">
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="clr-col-lg-12">
+                <div class="clr-col-lg-3 clr-col-sm-12">
                   <div class="card">
                     <div class="card-block card-custom-height">
                       <div class="card-title">
@@ -556,10 +542,10 @@
                     </div>
                     <div class="card-footer">
                       <div class="clr-row">
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
-                        <div class="clr-col-lg-6 set-center">
+                        <div class="clr-col-lg-12 set-center">
                           <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
@@ -624,7 +610,7 @@
                   </div>
                 </div>
                 <div class="clr-col-lg-7">
-                  <div class="card card-remove-margin-top">
+                  <div class="card">
                     <div class="card-block">
                       <div class="card-title">
                         <label class="card-title-blue">Apps​ Layer</label>
@@ -722,7 +708,7 @@
                   </div>
                 </div>
                 <div class="clr-col-lg-7">
-                  <div class="card card-remove-margin-top">
+                  <div class="card">
                     <div class="card-block">
                       <div class="card-title">
                         <label class="card-title-blue">Consumer​ Layer​</label>
