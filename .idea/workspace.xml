@@ -20,11 +20,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VOA/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="534" column="37" selection-start-line="534" selection-start-column="37" selection-end-line="534" selection-end-column="37" />
+            <state relative-caret-position="408">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -83,6 +82,7 @@
       <find>card-custom-height</find>
       <find>card-title-blue</find>
       <find>box-image</find>
+      <find>font-banner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -218,7 +218,7 @@
       <updated>1579279508199</updated>
       <workItem from="1579279511184" duration="4088000" />
       <workItem from="1579586546674" duration="7970000" />
-      <workItem from="1579673258054" duration="3965000" />
+      <workItem from="1579673258054" duration="5699000" />
     </task>
     <task id="LOCAL-00001" summary="Add assets">
       <created>1579279736086</created>
@@ -238,7 +238,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16023000" />
+    <option name="totallyTimeSpent" value="17757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -316,11 +316,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VOA/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="534" column="37" selection-start-line="534" selection-start-column="37" selection-end-line="534" selection-end-column="37" />
+        <state relative-caret-position="408">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
