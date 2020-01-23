@@ -282,10 +282,17 @@
       text-align: center;
       height: 160px;
     }
-
 	.btn-custom {
-		margin: 12px 16px 12px 0px !important;
+      margin: 12px 12px 12px 0px !important;
 	}
+    .stick {
+      position:fixed;
+      top:0px;
+      width: 100%;
+      height: 140px;
+      background-color: white;
+      z-index: 99;
+    }
   </style>
 </head>
 <body>
@@ -314,46 +321,47 @@
         </div>
       </div>
 
-      <div class="clr-row row-margin" style="margin-top: 100px !important;">
-        <div class="clr-col-lg-12">
-          <ul id="nav-tab" class="nav" role="tablist">
-            <li role="summary" class="nav-item nav-item-custom">
-              <center><div id="nav-summary" class="circle-div circle-div-summary"><clr-icon shape="bullet-list" size="36" style="color: #89CBDF;"></clr-icon></div></center>
-              <button id="btn-summary" class="btn btn-link nav-link active" aria-controls="panel1" aria-selected="true" type="button">
-                Summary
-              </button>
-            </li>
-            <li role="configuration" class="nav-item nav-item-custom">
-              <center><div id="nav-configuration" class="circle-div circle-div-configuration"><clr-icon shape="cog" size="36" style="color: #89CBDF;"></clr-icon></div></center>
-              <button id="btn-configuration" class="btn btn-link nav-link" aria-controls="panel2" aria-selected="false" type="button">
-                Configuration
-              </button>
-            </li>
-            <li role="performance" class="nav-item nav-item-custom">
-              <center><div id="nav-performance" class="circle-div circle-div-performance"><clr-icon shape="line-chart" size="36" style="color: #89CBDF;"></clr-icon></div></center>
-              <button id="btn-performance" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
-                Presentation
-              </button>
-            </li>
-            <li role="capacity" class="nav-item nav-item-custom">
-              <center><div id="nav-capacity" class="circle-div circle-div-capacity"><clr-icon shape="pie-chart" size="36" style="color: #89CBDF;"></clr-icon></div></center>
-              <button id="btn-capacity" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
-                Capacity
-              </button>
-            </li>
-            <li role="cost" class="nav-item nav-item-custom">
-              <center><div id="nav-cost" class="circle-div circle-div-cost"><clr-icon shape="coin-bag" size="36" style="color: #89CBDF;"></clr-icon></div></center>
-              <button id="btn-cost" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
-                Cost
-              </button>
-            </li>
-          </ul>
+      <div id="div-nav">
+        <div class="clr-row row-margin" style="margin-top: 100px !important;">
+          <div class="clr-col-lg-12">
+            <ul id="nav-tab" class="nav" role="tablist">
+              <li role="summary" class="nav-item nav-item-custom">
+                <center><div id="nav-summary" class="circle-div circle-div-summary"><clr-icon shape="bullet-list" size="36" style="color: #89CBDF;"></clr-icon></div></center>
+                <button id="btn-summary" class="btn btn-link nav-link active" aria-controls="panel1" aria-selected="true" type="button">
+                  Summary
+                </button>
+              </li>
+              <li role="configuration" class="nav-item nav-item-custom">
+                <center><div id="nav-configuration" class="circle-div circle-div-configuration"><clr-icon shape="cog" size="36" style="color: #89CBDF;"></clr-icon></div></center>
+                <button id="btn-configuration" class="btn btn-link nav-link" aria-controls="panel2" aria-selected="false" type="button">
+                  Configuration
+                </button>
+              </li>
+              <li role="performance" class="nav-item nav-item-custom">
+                <center><div id="nav-performance" class="circle-div circle-div-performance"><clr-icon shape="line-chart" size="36" style="color: #89CBDF;"></clr-icon></div></center>
+                <button id="btn-performance" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
+                  Performance
+                </button>
+              </li>
+              <li role="capacity" class="nav-item nav-item-custom">
+                <center><div id="nav-capacity" class="circle-div circle-div-capacity"><clr-icon shape="pie-chart" size="36" style="color: #89CBDF;"></clr-icon></div></center>
+                <button id="btn-capacity" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
+                  Capacity
+                </button>
+              </li>
+              <li role="cost" class="nav-item nav-item-custom">
+                <center><div id="nav-cost" class="circle-div circle-div-cost"><clr-icon shape="coin-bag" size="36" style="color: #89CBDF;"></clr-icon></div></center>
+                <button id="btn-cost" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
+                  Cost
+                </button>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
 
       <div class="clr-row row-margin" id="section-summary">
         <div class="clr-col-lg-12">
-
             <div class="card-header box-summary">
               <div class="set-center-left-content">
                 <div class="clr-row">
@@ -412,9 +420,9 @@
                     <i>To deliver the SLA, it’s paramount to understand the dependency among the components. For example, Contention and Utilization are 2 non-overlapping family of metrics. They complement each other, providing a complete set for performance management.</i>
                   </div>
                   <div class="clr-row pull-down" style="margin-left: 5px;">
-                    <button class="btn btn-sm btn-outline btn-custom">IT  Management Report</button>
-                    <button class="btn btn-sm btn-outline btn-custom">Inventory Summary</button>
-                    <button class="btn btn-sm btn-outline btn-custom">Capacity Summary</button>
+                    <button class="btn btn-md btn-outline btn-custom">IT  Management Report</button>
+                    <button class="btn btn-md btn-outline btn-custom">Inventory Summary</button>
+                    <button class="btn btn-md btn-outline btn-custom">Capacity Summary</button>
                   </div>
                 </div>
                 <div class="clr-col-lg-5">
@@ -440,7 +448,6 @@
 
       <div class="clr-row row-margin" id="section-configuration">
         <div class="clr-col-lg-12">
-
             <div class="card-header box-configuration">
               <div class="set-center-left-content">
                 <div class="clr-row">
@@ -487,10 +494,10 @@
                     <div class="card-footer">
                       <div class="clr-row">
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
@@ -509,10 +516,10 @@
                     <div class="card-footer">
                       <div class="clr-row">
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
@@ -531,10 +538,10 @@
                     <div class="card-footer">
                       <div class="clr-row">
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
@@ -553,10 +560,10 @@
                     <div class="card-footer">
                       <div class="clr-row">
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">Virtual Machine</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                         <div class="clr-col-lg-12 set-center">
-                          <button class="btn btn-sm btn-link">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
+                          <button class="btn btn-md btn-outline">infrastructure</button> <!-- onclick="location.href='http://www.example.com'" -->
                         </div>
                       </div>
                     </div>
@@ -565,7 +572,6 @@
               </div>
             </div>
           </div>
-
       </div>
 
       <div class="clr-row row-margin">
@@ -576,7 +582,6 @@
 
       <div class="clr-row row-margin" id="section-performance">
         <div class="clr-col-lg-12">
-
             <div class="card-header box-performance">
               <div class="set-center-left-content">
                 <div class="clr-row">
@@ -628,8 +633,7 @@
                       </div>
                     </div>
                     <div class="card-footer">
-                      <button class="btn btn-sm btn-outline">Install Telegraf</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">Configure service discovery</button> <!-- onclick="location.href='http://www.example.com'" -->
+                      <button class="btn btn-md btn-outline btn-custom">Install Telegraf</button><button class="btn btn-md btn-outline btn-custom">Configure service discovery</button>
                     </div>
                   </div>
                   <div class="card">
@@ -640,9 +644,7 @@
                       </div>
                     </div>
                     <div class="card-footer">
-                      <button class="btn btn-sm btn-outline">Guest os performance</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">VM performance</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">VM Utilization</button> <!-- onclick="location.href='http://www.example.com'" -->
+                      <button class="btn btn-md btn-outline btn-custom">Guest os performance</button><button class="btn btn-md btn-outline btn-custom">VM performance</button><button class="btn btn-md btn-outline btn-custom">VM Utilization</button>
                     </div>
                   </div>
                   <div class="card">
@@ -653,16 +655,13 @@
                       </div>
                     </div>
                     <div class="card-footer">
-                      <button class="btn btn-sm btn-outline">compute performance</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">storage performance</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">network performance</button> <!-- onclick="location.href='http://www.example.com'" -->
+                      <button class="btn btn-md btn-outline btn-custom">compute performance</button><button class="btn btn-md btn-outline btn-custom">storage performance</button><button class="btn btn-md btn-outline btn-custom">network performance</button>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-
       </div>
 
       <div class="clr-row row-margin">
@@ -673,7 +672,6 @@
 
       <div class="clr-row row-margin" id="section-capacity">
         <div class="clr-col-lg-12">
-
             <div class="card-header box-capacity">
               <div class="set-center-left-content">
                 <div class="clr-row">
@@ -736,10 +734,7 @@
                       </div>
                     </div>
                     <div class="card-footer">
-                      <button class="btn btn-sm btn-outline">Undersized VM​</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">Oversized VM​</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">Heavy Hitters VM​​</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">Reclaim​</button> <!-- onclick="location.href='http://www.example.com'" -->
+                      <button class="btn btn-md btn-outline btn-custom">Undersized VM​</button><button class="btn btn-md btn-outline btn-custom">Oversized VM​</button><button class="btn btn-md btn-outline btn-custom">Heavy Hitters VM​​</button><button class="btn btn-md btn-outline btn-custom">Reclaim​</button>
                     </div>
                   </div>
                   <div class="card">
@@ -754,15 +749,12 @@
                       </div>
                     </div>
                     <div class="card-footer">
-                      <button class="btn btn-sm btn-outline">Compute Capacity​​</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">Storage Capacity​</button> <!-- onclick="location.href='http://www.example.com'" -->
-                      <button class="btn btn-sm btn-outline">Network Capacity​</button> <!-- onclick="location.href='http://www.example.com'" -->
+                      <button class="btn btn-md btn-outline btn-custom">Compute Capacity​​</button><button class="btn btn-md btn-outline btn-custom">Storage Capacity​</button><button class="btn btn-md btn-outline btn-custom">Network Capacity​</button>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-
         </div>
       </div>
 
@@ -774,7 +766,6 @@
 
       <div class="clr-row row-margin" id="section-cost">
         <div class="clr-col-lg-12">
-
             <div class="card-header box-cost">
               <div class="set-center-left-content">
                 <div class="clr-row">
@@ -817,7 +808,6 @@
           </div>
         </div>
       </div>
-
   </div>
 
 </div>
@@ -847,6 +837,18 @@
 <script type="application/javascript">
   $(document).ready(function() {
     startUp();
+
+    /*var s = $("#div-nav");
+    var pos = s.position();
+    $(window).scroll(function() {
+      var windowpos = $(window).scrollTop();
+
+      if (windowpos >= pos.top) {
+        s.addClass("stick");
+      } else {
+        s.removeClass("stick");
+      }
+    });*/
 
     $("#btn-summary").click(function(){
       moveTab("btn-summary");
