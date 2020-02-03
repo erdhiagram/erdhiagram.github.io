@@ -25,7 +25,7 @@
     }
     .bg-banner-img {
       height: 250px;
-      transform: scale(1.093);
+      transform: scale(1.090);
     }
     .bg-color {
       background: #0079B8;
@@ -321,6 +321,7 @@
         </div>
       </div>
 
+      <div id="tes"></div>
       <div id="div-nav">
         <div class="clr-row row-margin" id="sidebar" style="margin-top: 100px !important;">
           <div class="clr-col-lg-12">
@@ -974,7 +975,7 @@
 
   function moveTab(btnActive){
     var arrBtn = [ "btn-summary","btn-configuration","btn-performance","btn-capacity","btn-cost" ];
-    var arrDiv = [ "#section-summary","#section-configuration","#section-performance","#section-capacity","#section-cost" ];
+    var arrDiv = [ "#tes","#section-configuration","#section-performance","#section-capacity","#section-cost" ];
     var arrNav = [ "#nav-summary","#nav-configuration","#nav-performance","#nav-capacity","#nav-cost"];
     var arrColor = [ "#F3F6FA","#EBF0FF","#E1F1F6","#DFF0D0","#D9E4EA"];
     var arrColorHover = [ "#005680","#0F1E82","#003D79","#1D5100","#25333D"];
@@ -983,11 +984,17 @@
       if(arrBtn[i] == btnActive){
         document.getElementById(btnActive).classList.add("active");
         $(arrNav[i]).css("background", arrColorHover[i]);
-        if(i != 0 && scrollEvent == false){
-          scrollToElement(arrDiv[i], 280);
-          scrollEvent = true;
+
+        if(i == 0){
+          scrollToElement(arrDiv[i], 0);
+          scrollEvent = false;
         }else{
-          scrollToElement(arrDiv[i], 140);
+          if(i != 0 && scrollEvent == false){
+            scrollToElement(arrDiv[i], 280);
+            scrollEvent = true;
+          }else{
+            scrollToElement(arrDiv[i], 140);
+          }
         }
       }else{
         document.getElementById(arrBtn[i]).classList.remove("active");
