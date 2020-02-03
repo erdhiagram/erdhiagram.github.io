@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VOA/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="565" column="63" selection-start-line="565" selection-start-column="63" selection-end-line="565" selection-end-column="63" />
+            <state relative-caret-position="371">
+              <caret line="809" column="37" selection-start-line="809" selection-start-column="37" selection-end-line="809" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -87,7 +87,6 @@
       <find>box-summary</find>
       <find>custom-margin</find>
       <find>sv</find>
-      <find>bg-banner-img</find>
       <find>card-custom-height</find>
       <find>card-title-blue</find>
       <find>box-image</find>
@@ -96,8 +95,14 @@
       <find>label-box-title-configuration</find>
       <find>p-box-description</find>
       <find>btn-custom2</find>
-      <find>btn-custom2</find>
       <find>row-mar</find>
+      <find>bg-banner-img</find>
+      <find>container-custom</find>
+      <find>nav-summary</find>
+      <find>circle-div-configuration</find>
+      <find>section-performance</find>
+      <find>div-nav</find>
+      <find>section-configuration</find>
     </findStrings>
     <replaceStrings>
       <replace>btn-custom</replace>
@@ -126,6 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +195,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,15 +206,15 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2018.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets" />
+      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\css\clr" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\VOA" />
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\vendor" />
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets" />
       <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets" />
-      <recent name="F:\Projects\Sync Project ID\github@erdhiagram\assets\css\clr" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,7 +243,8 @@
       <workItem from="1579586546674" duration="7970000" />
       <workItem from="1579673258054" duration="7507000" />
       <workItem from="1579761927577" duration="19000" />
-      <workItem from="1579770384104" duration="5780000" />
+      <workItem from="1579770384104" duration="6504000" />
+      <workItem from="1580712866142" duration="8594000" />
     </task>
     <task id="LOCAL-00001" summary="Add assets">
       <created>1579279736086</created>
@@ -258,13 +264,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25364000" />
+    <option name="totallyTimeSpent" value="34682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26279318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/VOA/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="565" column="63" selection-start-line="565" selection-start-column="63" selection-end-line="565" selection-end-column="63" />
+        <state relative-caret-position="371">
+          <caret line="809" column="37" selection-start-line="809" selection-start-column="37" selection-end-line="809" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

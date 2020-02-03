@@ -14,17 +14,16 @@
     }
     .bg {
       width: 100%;
-      height: 250px;
+      height: 367px;
       background: #0079B8;
     }
     .bg-banner-top {
-      margin-top: 30px;
+      margin-top: 68px;
     }
     .bg-banner-divider {
       margin: 20px 0px 0px 0px;
     }
     .bg-banner-img {
-      height: 250px;
       transform: scale(1.093);
     }
     .bg-color {
@@ -36,7 +35,7 @@
       right: 2%;
     }
     .font-banner {
-      font-size: 27px;
+      font-size: 35px;
       font-weight: bold;
       color: white;
     }
@@ -149,11 +148,11 @@
     .card-title-custom {
       font-size: 13px !important;
       font-weight: bold !important;
-      margin-bottom : 16px !important;
+	  margin-bottom : 16px !important;
     }
     .card-text-custom {
       font-size: 12px !important;
-      margin-bottom: 24px !important;
+	  margin-bottom: 24px !important;
 
     }
     .card-title-blue {
@@ -219,7 +218,7 @@
       border: 3px solid #F3F6FA;
     }
     .circle-div-summary:hover {
-      background: #C5E5EF !important;
+      background: #C5E5EF;
       border: 3px solid #C5E5EF;
     }
     .circle-div-configuration {
@@ -233,7 +232,7 @@
       border: 3px solid #EBF0FF;
     }
     .circle-div-configuration:hover {
-      background: #D1D6F3 !important;
+      background: #D1D6F3;
       border: 3px solid #D1D6F3;
     }
     .circle-div-performance {
@@ -247,7 +246,7 @@
       border: 3px solid #E1F1F6;
     }
     .circle-div-performance:hover {
-      background: #C5E5EF !important;
+      background: #C5E5EF;
       border: 3px solid #C5E5EF;
     }
     .circle-div-capacity {
@@ -261,7 +260,7 @@
       border: 3px solid #DFF0D0;
     }
     .circle-div-capacity:hover {
-      background: #C7E59C !important;
+      background: #C7E59C;
       border: 3px solid #C7E59C;
     }
     .circle-div-cost {
@@ -275,7 +274,7 @@
       border: 3px solid #D9E4EA;
     }
     .circle-div-cost:hover {
-      background: #C1CDD4 !important;
+      background: #C1CDD4;
       border: 3px solid #C1CDD4;
     }
     .nav-item-custom {
@@ -283,9 +282,9 @@
       text-align: center;
       height: 160px;
     }
-    .btn-custom {
+	.btn-custom {
       margin: 12px 12px 12px 0px !important;
-    }
+	}
     .stick {
       position:fixed;
       top:0px;
@@ -304,10 +303,11 @@
   <div class="content-container container-custom">
     <div class="bg">
       <div class="clr-row remove-right-space bg-color">
-        <div class="clr-col-lg-7 bg-banner-top">
+        <div class="clr-col-lg-6 bg-banner-top">
           <div class="content-area">
-
-            <label class="font-banner">Virtualization Optimization Assessment</label>
+            <label class="font-banner">Virtualization Optimization</label>
+            <div class="bg-banner-divider"></div>
+            <label class="font-banner">Assessment</label>
           </div>
           <div class="content-area">
             <p style="color: white;">
@@ -316,13 +316,13 @@
             </p>
           </div>
         </div>
-        <div class="clr-col-lg-5 pull-right">
+        <div class="clr-col-lg-6 pull-right">
           <img src="assets/svg/tree-planting.svg" class="bg-banner-img" />
         </div>
       </div>
 
       <div id="div-nav">
-        <div class="clr-row row-margin" id="sidebar" style="margin-top: 100px !important;">
+        <div class="clr-row row-margin" style="margin-top: 100px !important;">
           <div class="clr-col-lg-12">
             <ul id="nav-tab" class="nav" role="tablist">
               <li role="summary" class="nav-item nav-item-custom">
@@ -354,6 +354,7 @@
                 <button id="btn-cost" class="btn btn-link nav-link" aria-controls="panel3" aria-selected="false" type="button">
                   Cost
                 </button>
+              </li>
             </ul>
           </div>
         </div>
@@ -765,56 +766,6 @@
 
       <div class="clr-row row-margin" id="section-cost">
         <div class="clr-col-lg-12">
-          <div class="card-header box-cost">
-            <div class="set-center-left-content">
-              <div class="clr-row">
-                <div class="clr-col-lg-2 clr-col-md-12 clr-col-sm-12 clr-col-12">
-                  <div class="set-center-left-content">
-                    <div class="clr-row">
-                      <div class="clr-col-4">
-                        <div class="set-center-left-content">
-                          <clr-icon shape="coin-bag" size="55" class="is-info"></clr-icon>
-                        </div>
-                      </div>
-                      <div class="clr-col-8">
-                        <div class="set-center-left-content">
-                          <label class="label-box-title-cost">Cost</label>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="clr-col-lg-10">
-                  <div class="set-center-left-content">
-                    <p class="custom-margin p-box-description">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                      Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="card-block card-block-bgcolor">
-            <div class="card-title">
-              Lorem ipsum
-            </div>
-            <div class="card-text">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="clr-row row-margin">
-        <div class="clr-col-lg-12">
-          <div class="custom-divider"></div>
-        </div>
-      </div>
-
-	   <div class="clr-row row-margin" id="section-extra">
-        <div class="clr-col-lg-12">
             <div class="card-header box-cost">
               <div class="set-center-left-content">
                 <div class="clr-row">
@@ -828,7 +779,7 @@
                         </div>
                         <div class="clr-col-8">
                           <div class="set-center-left-content">
-                            <label class="label-box-title-cost">Extra</label>
+                            <label class="label-box-title-cost">Cost</label>
                           </div>
                         </div>
                       </div>
@@ -837,11 +788,9 @@
                   <div class="clr-col-lg-10">
                     <div class="set-center-left-content">
                       <p class="custom-margin p-box-description">
-                        <strong style = "font-size :15px"> One More Thing </strong></br>
-						Glad you are here!</br>
-						Hope you've enjoyed the value of vRealize Operations to optimizing your VMware environment.Now
-						what other coll stuff can it do?
-						We'll show you an example how you can put together the features to solve a complex problem.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                       </p>
                     </div>
                   </div>
@@ -850,7 +799,7 @@
             </div>
             <div class="card-block card-block-bgcolor">
               <div class="card-title">
-                Multi Tier Business Application
+                Lorem ipsum
               </div>
               <div class="card-text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -858,8 +807,7 @@
             </div>
           </div>
         </div>
-
-	  </div>
+      </div>
   </div>
 
 </div>
@@ -886,14 +834,11 @@
 <script type="application/javascript" src="https://code.jquery.com/jquery-3.4.1.js"></script>
 <script type="application/javascript" src="assets/vendor/custom-elements/custom-elements.min.js"></script>
 <script type="application/javascript" src="assets/vendor/clr/icons/clr-icons.min.js"></script>
-
 <script type="application/javascript">
-  var scrollEvent = false;
-
   $(document).ready(function() {
     startUp();
 
-    var s = $("#div-nav");
+    /*var s = $("#div-nav");
     var pos = s.position();
     $(window).scroll(function() {
       var windowpos = $(window).scrollTop();
@@ -903,7 +848,7 @@
       } else {
         s.removeClass("stick");
       }
-    });
+    });*/
 
     $("#btn-summary").click(function(){
       moveTab("btn-summary");
@@ -944,6 +889,7 @@
 	$("#nav-cost").click(function(){
       moveTab("btn-cost");
     });
+
     $("#btn-modal-close").click(function(){
       setModal("none");
     });
@@ -975,20 +921,15 @@
   function moveTab(btnActive){
     var arrBtn = [ "btn-summary","btn-configuration","btn-performance","btn-capacity","btn-cost" ];
     var arrDiv = [ "#section-summary","#section-configuration","#section-performance","#section-capacity","#section-cost" ];
-    var arrNav = [ "#nav-summary","#nav-configuration","#nav-performance","#nav-capacity","#nav-cost"];
-    var arrColor = [ "#F3F6FA","#EBF0FF","#E1F1F6","#DFF0D0","#D9E4EA"];
-    var arrColorHover = [ "#005680","#0F1E82","#003D79","#1D5100","#25333D"];
+    var arrNav = [ "#nav-summary","#nav-configuration","#nav-performance","#nav-capacity","#nav-cost" ];
+    var arrColor = [ "#F3F6FA","#EBF0FF","#E1F1F6","#DFF0D0","#D9E4EA" ];
+    var arrColorHover = [ "#005680","#0F1E82","#003D79","#1D5100","#25333D" ];
 
     for(var i=0; i<arrBtn.length; i++){
       if(arrBtn[i] == btnActive){
         document.getElementById(btnActive).classList.add("active");
         $(arrNav[i]).css("background", arrColorHover[i]);
-        if(i != 0 && scrollEvent == false){
-          scrollToElement(arrDiv[i], 280);
-          scrollEvent = true;
-        }else{
-          scrollToElement(arrDiv[i], 140);
-        }
+        scrollToElement(arrDiv[i]);
       }else{
         document.getElementById(arrBtn[i]).classList.remove("active");
         $(arrNav[i]).css("background", arrColor[i]);
@@ -996,9 +937,9 @@
     }
   }
 
-  var scrollToElement = function(el, margin){
+  var scrollToElement = function(el){
     $('html,body').animate({
-      scrollTop: $(el).offset().top - margin
+      scrollTop: $(el).offset().top
     }, 1500);
   }
 </script>
