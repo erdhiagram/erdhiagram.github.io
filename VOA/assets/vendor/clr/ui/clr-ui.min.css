@@ -6454,6 +6454,7 @@ a.link-visited:link {
     -webkit-transition: -webkit-box-shadow .2s ease-in;
     transition: box-shadow .2s ease-in;
     transition: box-shadow .2s ease-in,-webkit-box-shadow .2s ease-in;
+    width: 146px;
 }
 
 .nav .nav-link.active,.nav .nav-link:active,.nav .nav-link:focus,.nav .nav-link:hover {
