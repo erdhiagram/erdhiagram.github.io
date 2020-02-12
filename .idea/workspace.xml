@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3467ecc8-696f-4c70-8ce3-7ebaed49e4c3" name="Default Changelist" comment="edit index.html 2019.01.18-1" />
+    <list default="true" id="3467ecc8-696f-4c70-8ce3-7ebaed49e4c3" name="Default Changelist" comment="edit index.html 2019.01.18-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOA/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/VOA/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,25 +21,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VOA/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="277" column="23" lean-forward="true" selection-start-line="277" selection-start-column="23" selection-end-line="277" selection-end-column="23" />
+            <state relative-caret-position="400">
+              <caret line="203" column="24" lean-forward="true" selection-start-line="203" selection-start-column="24" selection-end-line="203" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#9;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#13;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="109905">
               <caret line="6465" column="21" selection-start-line="6465" selection-start-column="21" selection-end-line="6465" selection-end-column="21" />
               <folding>
                 <element signature="e#42895#44246#2" expanded="true" />
@@ -64,18 +52,6 @@
                 <element signature="e#150478#167499#2" expanded="true" />
                 <element signature="e#170260#171377#2" expanded="true" />
                 <element signature="e#190838#191461#2" expanded="true" />
-                <element signature="e#199714#200211#2" expanded="true" />
-                <element signature="e#247062#248455#2" expanded="true" />
-                <element signature="e#248881#250274#2" expanded="true" />
-                <element signature="e#250370#250943#2" expanded="true" />
-                <element signature="e#277698#278195#2" expanded="true" />
-                <element signature="e#294499#294670#2" expanded="true" />
-                <element signature="e#297421#297918#2" expanded="true" />
-                <element signature="e#320707#325156#2" expanded="true" />
-                <element signature="e#352863#381632#1" expanded="true" />
-                <element signature="e#381732#410849#1" expanded="true" />
-                <element signature="e#410949#440338#1" expanded="true" />
-                <element signature="e#440438#470023#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,19 +70,14 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>box-summary</find>
-      <find>custom-margin</find>
-      <find>sv</find>
       <find>card-custom-height</find>
       <find>card-title-blue</find>
       <find>box-image</find>
-      <find>font-banner</find>
       <find>configuration</find>
       <find>label-box-title-configuration</find>
       <find>p-box-description</find>
       <find>btn-custom2</find>
       <find>row-mar</find>
-      <find>bg-banner-img</find>
       <find>container-custom</find>
       <find>nav-summary</find>
       <find>circle-div-configuration</find>
@@ -124,6 +95,11 @@
       <find>btn-summary</find>
       <find>circle-div-summary</find>
       <find>nav-item-custom</find>
+      <find>font-banner</find>
+      <find>.box-image-content</find>
+      <find>pull-right</find>
+      <find>bg-banner-img</find>
+      <find>box-image-content</find>
     </findStrings>
     <replaceStrings>
       <replace>btn-custom</replace>
@@ -261,6 +237,7 @@
       <workItem from="1580712866142" duration="12097000" />
       <workItem from="1580809608123" duration="2437000" />
       <workItem from="1580870152084" duration="2796000" />
+      <workItem from="1581496826657" duration="1945000" />
     </task>
     <task id="LOCAL-00001" summary="Add assets">
       <created>1579279736086</created>
@@ -280,12 +257,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43418000" />
+    <option name="totallyTimeSpent" value="45363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26812366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,6 +301,16 @@
     <entry file="file://$PROJECT_DIR$/VOA/assets/svg/tree-planting.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/VOA/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="203" column="24" lean-forward="true" selection-start-line="203" selection-start-column="24" selection-end-line="203" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/clr/ui/src/layout/nav/_nav.clarity.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -330,16 +318,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Node.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/clr/ui/clr-ui.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="109905">
           <caret line="6465" column="21" selection-start-line="6465" selection-start-column="21" selection-end-line="6465" selection-end-column="21" />
           <folding>
             <element signature="e#42895#44246#2" expanded="true" />
@@ -349,44 +330,14 @@
             <element signature="e#150478#167499#2" expanded="true" />
             <element signature="e#170260#171377#2" expanded="true" />
             <element signature="e#190838#191461#2" expanded="true" />
-            <element signature="e#199714#200211#2" expanded="true" />
-            <element signature="e#247062#248455#2" expanded="true" />
-            <element signature="e#248881#250274#2" expanded="true" />
-            <element signature="e#250370#250943#2" expanded="true" />
-            <element signature="e#277698#278195#2" expanded="true" />
-            <element signature="e#294499#294670#2" expanded="true" />
-            <element signature="e#297421#297918#2" expanded="true" />
-            <element signature="e#320707#325156#2" expanded="true" />
-            <element signature="e#352863#381632#1" expanded="true" />
-            <element signature="e#381732#410849#1" expanded="true" />
-            <element signature="e#410949#440338#1" expanded="true" />
-            <element signature="e#440438#470023#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VOA/index.html">
+    <entry file="file://$PROJECT_DIR$/VOA/assets/vendor/custom-elements/src/Patch/Node.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="277" column="23" lean-forward="true" selection-start-line="277" selection-start-column="23" selection-end-line="277" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#clr-icon#0;n#div#0;n#center#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#9;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#13;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
         </state>
       </provider>
     </entry>
