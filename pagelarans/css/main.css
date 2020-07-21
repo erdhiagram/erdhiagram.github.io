@@ -338,7 +338,7 @@ a, a:hover, a:active, a:focus, button:focus, .btn:focus, .form-control:focus {
 }
 
 #navigation .nav > li.active a, #navigation .nav > li > a:focus, #navigation .nav > li > a:hover {
-    background-color: #00aeef;
+    background-color: #f59120;
     color: #fff
 }
 
@@ -415,7 +415,7 @@ ul.sub-menu {
 }
 
 #header .navbar, .navbar.sticky-nav {
-    background-image: url(../images/bg/header.jpg);
+    /*background-image: url(../images/bg/header.jpg);*/
     background-color: #000;
     background-size: cover;
     background-repeat: no-repeat;

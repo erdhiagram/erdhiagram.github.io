@@ -1,0 +1,98 @@
+html,
+body {
+    margin:0;
+    padding:0;
+    height:100%;
+}
+#container-slice {
+    min-height:100%;
+    position:relative;
+}
+#header {
+    background:#ff0;
+    padding:10px;
+}
+#body {
+    padding:10px;
+    padding-bottom:60px;   /* Height of the footer */
+}
+#footer {
+    position:absolute;
+    bottom:0;   /* Always make footer in bottom at any screen */
+    width:100%;
+    height:75px;   /* Height of the footer */
+    background:#C1272D;
+
+    border-top: 1px solid #FFFFFF;
+    -webkit-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.55);
+    -moz-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.55);
+    box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.55);
+}
+
+.container{
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bg {
+    background-image: url("../images/bg/gradient.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-menu #navigation .navbar {
+    top: 0px !important;
+}
+.top-menu .home-content {
+    padding-top: 115px;
+}
+
+.iframe-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.content-desktop {display: block; height: 100%; vertical-align: middle;}
+.content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+    .content-desktop {display: none;}
+    .content-mobile {display: block; height: 100%; vertical-align: middle;}
+}
+
+.centered {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.img-logo-bottom {
+    height: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.img-logo-bottom-mobile {
+    height: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
