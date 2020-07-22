@@ -14,7 +14,11 @@ body {
 }
 #body {
     padding:10px;
-    padding-bottom:60px;   /* Height of the footer */
+    height: calc(100% - 170px);
+    height: -o-calc(100% - 170px); /* opera */
+    height: -webkit-calc(100% - 170px); /* google, safari */
+    height: -moz-calc(100% - 170px); /* firefox */
+    /*margin-bottom:75px;   Height of the footer */
 }
 #footer {
     position:absolute;
@@ -31,6 +35,7 @@ body {
 
 .container{
     width: 100%;
+    height: 100%;
     padding-right: 0px;
     padding-left: 0px;
     margin-right: auto;
