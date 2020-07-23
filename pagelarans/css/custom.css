@@ -14,6 +14,7 @@ body {
 }
 #body {
     padding:10px;
+    width: 100%;
     height: calc(100% - 170px);
     height: -o-calc(100% - 170px); /* opera */
     height: -webkit-calc(100% - 170px); /* google, safari */
