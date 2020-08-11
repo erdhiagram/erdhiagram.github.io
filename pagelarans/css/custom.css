@@ -109,7 +109,21 @@ body {
     text-align: center;
 }
 
+@font-face {font-family: "The Bold Font"; src: url("//db.onlinewebfonts.com/t/a1e62992c2000401c04c1b6e042516c0.eot"); src: url("//db.onlinewebfonts.com/t/a1e62992c2000401c04c1b6e042516c0.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/a1e62992c2000401c04c1b6e042516c0.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/a1e62992c2000401c04c1b6e042516c0.woff") format("woff"), url("//db.onlinewebfonts.com/t/a1e62992c2000401c04c1b6e042516c0.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/a1e62992c2000401c04c1b6e042516c0.svg#The Bold Font") format("svg"); }
+
+.a-link {
+    font-family: 'The Bold Font', Helvetica, Arial, sans;
+    font-size:      20px;
+    font-weight:    bold;
+}
+
 .top-news-title-style {
+    font-family: 'The Bold Font', Helvetica, Arial, sans;
+    line-height: unset;
+}
+
+.top-news-title-style {
+    font-family: 'The Bold Font', Helvetica, Arial, sans;
     line-height: unset;
 }
 
