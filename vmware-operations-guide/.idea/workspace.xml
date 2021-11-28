@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43f3e8e1-b5c0-463a-98a3-0cb3a50b9d0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/sort_asc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sort_both.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/datatable/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/datatable/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="43f3e8e1-b5c0-463a-98a3-0cb3a50b9d0a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,21 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/datatable/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="529">
-              <caret line="1423" column="7" selection-start-line="1423" selection-start-column="7" selection-end-line="1423" selection-end-column="7" />
+              <caret line="1453" column="7" selection-start-line="1453" selection-start-column="7" selection-end-line="1453" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#3;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/files/json/test.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -45,8 +40,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/datatable/index.html" />
         <option value="$PROJECT_DIR$/files/json/test.json" />
+        <option value="$PROJECT_DIR$/demo/datatable/index.html" />
       </list>
     </option>
   </component>
@@ -137,12 +132,12 @@
       <option name="presentableId" value="Default" />
       <updated>1638078301458</updated>
       <workItem from="1638078303379" duration="180000" />
-      <workItem from="1638083071418" duration="109000" />
+      <workItem from="1638083071418" duration="706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289000" />
+    <option name="totallyTimeSpent" value="886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -173,22 +168,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/datatable/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="1423" column="7" selection-start-line="1423" selection-start-column="7" selection-end-line="1423" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#3;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files/json/test.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/datatable/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="1453" column="7" selection-start-line="1453" selection-start-column="7" selection-end-line="1453" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#3;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
