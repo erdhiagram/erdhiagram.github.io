@@ -20,6 +20,18 @@
     <link href=/vmware-operations-guide/css/top-table.css?1634458076 rel=stylesheet>
     <link href="https://phpcoder.tech/multiselect/css/jquery.multiselect.css" rel=stylesheet>
 
+    <style>
+        th {
+            border-top: 1px solid #dddddd;
+            border-bottom: 1px solid #dddddd;
+            border-right: 1px solid #dddddd;
+        }
+
+        th:first-child {
+            border-left: 1px solid #dddddd;
+        }
+    </style>
+
     <script src=/vmware-operations-guide/js/jquery-3.3.1.min.js?1634458076></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4E70Q7EBYT"></script>
     <script>window.dataLayer = window.dataLayer || [];
@@ -94,18 +106,19 @@
                             <li>To filter based on any column, use the search box.</li>
                             <li>Note: no 2 and 3 work together as join filter.</li>
                             <li>To sort by any column, click on it.</li>
+                            <li>To sort multiple column, press shift then click any column.</li>
                         </ol>
                         </p>
-                        <table id=dataTables class=datatable style="width: 1000px;">
+                        <table id=dataTables class=datatable style="min-width: 1000px;">
                             <thead>
                             <tr>
-                                <th width="150px">Object</th>
-                                <th width="125px">Purpose</th>
-                                <th width="75px">Type</th>
-                                <th width="150px">Metric Group</th>
-                                <th width="150px">Name</th>
-                                <th width="150px">Unit</th>
-                                <th width="200px">Tool tips</th>
+                                <th>Object</th>
+                                <th>Purpose</th>
+                                <th>Type</th>
+                                <th>Metric Group</th>
+                                <th>Name</th>
+                                <th>Unit</th>
+                                <th>Tool tips</th>
                             </tr>
                             <tr>
                                 <th class=th_filter></th>
@@ -1379,6 +1392,12 @@ active"><a href=/vmware-operations-guide/demo/datatable/ class="nav-link active"
                 { 'data': 'Name' },
                 { 'data': 'Unit' },
                 { 'data': 'Tool tips' }
+            ],
+            columnDefs: [
+                {
+                    targets: [0,1,2,3,4,5,6],
+                    className: 'dt-body-left'
+                }
             ],
             initComplete: function () {
                 this.api().columns().every( function () {
